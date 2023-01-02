@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/bestand"
+        android:title="Bestand"
+        android:icon="@drawable/fridge_black_24dp"/>
+    <item
+        android:id="@+id/list"
+        android:title="Einkaufsliste"
+        android:icon="@drawable/shopping_list_black_24dp"/>
+    <item
+        android:id="@+id/rezepte"
+        android:title="Rezepte"
+        android:icon="@drawable/recipes_black_24dp"/>
+</menu>
